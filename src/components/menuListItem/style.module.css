@@ -1,0 +1,11 @@
+.container{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.itemHovered{
+    background-color: #a5e9ff;
+    cursor: pointer;
+}
